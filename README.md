@@ -41,6 +41,6 @@ ESP32
 -> Checar las diferentes configuraciones de LAS IMAGENES Y CARACTERISTICAS
 
 
-### ESDP32
+### ESP32
 
 -> Checar las ESP32 NUEVas y soldar la otra 
