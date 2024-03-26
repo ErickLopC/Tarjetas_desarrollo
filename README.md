@@ -19,3 +19,8 @@ ESP32
 # TIVA 
 
 # [Avanzadas](https://github.com/ErickLopC/Tarjetas-_avanzadas)
+
+
+# Pendientes
+
+checar por que algunas imagenes grabada sen a rasberry o en la jetson no permite conectar directamente al NAS de la basrberry
