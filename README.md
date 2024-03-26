@@ -39,3 +39,8 @@ ESP32
 ### Jetson 
 
 -> Checar las diferentes configuraciones de LAS IMAGENES Y CARACTERISTICAS
+
+
+### ESDP32
+
+-> Checar las ESP32 NUEVas y soldar la otra 
