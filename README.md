@@ -27,4 +27,15 @@ ESP32
 
 -> Chacr si una imagen en uns sd se puede copar rapidamente en otra rasberrypi del mismo modleo, que cambia? 
 
-->
+### Arduino nano
+
+-> CHECAR EL ARDUInmo nano con configuracioin ethernet de profibus 
+
+### Tiva
+
+-> Checar la configuracion de etehrnet
+
+
+### Jetson 
+
+-> Checar las diferentes configuraciones de LAS IMAGENES Y CARACTERISTICAS
